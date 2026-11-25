@@ -8,12 +8,12 @@ lexers/parsers.
 ## Integrantes
 
 | Matrícula | Rama |
-|---|
-|  | 2023100352 | DEV-TIAGO |
-|  | 2024100094 | DEV-ANDREA-DEOLINDA |
-|  | 2024102176 | DEV-EDUARDO |
-|  | 2022100633 | DEV-LEANDRO |
-|  | 2019100853 | dev-lucas-alfaro |
+|---|---|
+| 2023100352 | DEV-TIAGO |
+| 2024100094 | DEV-ANDREA-DEOLINDA |
+| 2024102176 | DEV-EDUARDO |
+| 2022100633 | DEV-LEANDRO |
+| 2019100853 | dev-lucas-alfaro |
 
 ## Requisitos
 
