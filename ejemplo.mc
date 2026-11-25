@@ -1,0 +1,4 @@
+x = 10;
+y = 5;
+resultado = (x + y) * 2;
+promedio = resultado / 3;
